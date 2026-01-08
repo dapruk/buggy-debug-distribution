@@ -1,0 +1,11 @@
+sku,name,price,quantity, vendor_code
+SKU-201,Gaming Headset,59.99,1O,VEN-001
+SKU-202,Mechanical Keyboard,129.99,5,VEN-001
+SKU-203,Wireless Mouse,49.99,8,VEN-002
+SKU-204,27in Monitor,299.99,12,VEN-002
+SKU-205,Webcam 4K,199.99,15,VEN-001
+SKU-206,USB-C Hub,39.99,6,VEN-003
+SKU-207,Laptop Stand,25.00,20,VEN-003
+SKU-208,Desk Lamp,45.00,30,VEN-004
+SKU-209,Monitor Arm,75.00,50,VEN-005
+SKU-210,Cable Management,29.99,40,VEN-005

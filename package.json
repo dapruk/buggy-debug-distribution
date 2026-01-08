@@ -1,0 +1,12 @@
+{
+  "name": "buggy-debug-compe-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm --filter web build",
+    "typecheck": "pnpm --filter web typecheck"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
